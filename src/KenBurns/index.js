@@ -9,7 +9,7 @@ import "../styles.css";
 const imageBoxVariants = {
   hidden: {
     opacity: 0,
-    rotate: 4.5,
+    rotate: 5,
     scale: 1.2
   },
   kenBurns: {
@@ -22,11 +22,13 @@ const imageBoxVariants = {
 const imageCopyVariants = {
   hidden: {
     opacity: 0,
+    rotate: 2,
     scale: 0.5
   },
   kenBurns: {
     opacity: [0, 1, 1, 1, 0],
-    scale: 1.2
+    rotate: 0,
+    scale: 1.0
   }
 };
 

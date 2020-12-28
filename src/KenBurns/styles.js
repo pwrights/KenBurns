@@ -26,11 +26,12 @@ export const Image = styled.img`
 
 export const ImageCopy = styled(motion.div)`
   position: absolute;
-  top: 0px;
+  top: 10px;
   left: 30px;
 
   & > h1 {
     color: #ffffff;
+    font-family: "myRoboto";
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   }
 `;
