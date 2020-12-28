@@ -12,7 +12,7 @@ export const slideData = [
   {
     url: "./images/bleedingHearts.png",
     alt: "Ambler, PA - 05/03/2020 - Panasonic DMC-FZ28",
-    copy: "Neightborhood Bleeding Hearts"
+    copy: "Neighborhood Bleeding Hearts"
   },
   {
     url: "./images/shawneeLotus.png",
